@@ -4,7 +4,7 @@ Libft est le premier projet de l'école 42 visant à créer une bibliothèque pe
 
 ## Partie Obligatoire
 
-### Fonctions de la libc
+### Fonctions de la libft
 - [x] **[isalpha](ft_isalpha.c):** Vérifie si un caractère est alphabétique.
 - [x] **[isdigit](ft_isdigit.c):** Vérifie si un caractère est un chiffre.
 - [x] **[isalnum](ft_isalnum.c):** Vérifie si un caractère est alphanumérique.
