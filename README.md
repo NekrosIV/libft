@@ -5,27 +5,27 @@ Libft est le premier projet de l'école 42 visant à créer une bibliothèque pe
 ## Partie Obligatoire
 
 ### Fonctions de la libft
-- [x] **[isalpha](ft_isalpha.c):** Vérifie si un caractère est alphabétique.
-- [x] **[isdigit](ft_isdigit.c):** Vérifie si un caractère est un chiffre.
-- [x] **[isalnum](ft_isalnum.c):** Vérifie si un caractère est alphanumérique.
-- [x] **[isascii](ft_isascii.c):** Vérifie si un caractère fait partie de la table ASCII.
-- [x] **[isprint](ft_isprint.c):** Vérifie si un caractère est imprimable.
-- [x] **[strlen](ft_strlen.c):** Calcule la longueur d'une chaîne de caractères.
-- [x] **[memset](ft_memset.c):** Remplit un bloc de mémoire avec une valeur spécifique.
-- [x] **[bzero](ft_bzero.c):** Met à zéro les premiers n octets d'une zone mémoire.
-- [x] **[memcpy](ft_memcpy.c):** Copie n octets depuis la mémoire source vers la mémoire destination.
-- [x] **[memmove](ft_memmove.c):** Copie n octets depuis la mémoire source vers la mémoire destination (peut gérer les chevauchements).
-- [x] **[strlcpy](ft_strlcpy.c):** Copie une chaîne de caractères de manière sûre dans un buffer.
-- [x] **[strlcat](ft_strlcat.c):** Concatène deux chaînes de caractères de manière sûre.
-- [x] **[toupper](ft_toupper.c):** Convertit un caractère en majuscule.
-- [x] **[tolower](ft_tolower.c):** Convertit un caractère en minuscule.
-- [x] **[strchr](ft_strchr.c):** Recherche la première occurrence d'un caractère dans une chaîne.
-- [x] **[strrchr](ft_strrchr.c):** Recherche la dernière occurrence d'un caractère dans une chaîne.
-- [x] **[strncmp](ft_strncmp.c):** Compare les n premiers caractères de deux chaînes.
-- [x] **[memchr](ft_memchr.c):** Recherche la première occurrence d'un caractère dans une zone mémoire.
-- [x] **[memcmp](ft_memcmp.c):** Compare deux zones mémoire.
-- [x] **[strnstr](ft_strnstr.c):** Recherche une sous-chaîne dans une chaîne avec une limite de taille.
-- [x] **[atoi](ft_atoi.c):** Convertit une chaîne de caractères en un entier.
+- [x] **[ft_isalpha](ft_isalpha.c):** Vérifie si un caractère est alphabétique.
+- [x] **[ft_isdigit](ft_isdigit.c):** Vérifie si un caractère est un chiffre.
+- [x] **[ft_isalnum](ft_isalnum.c):** Vérifie si un caractère est alphanumérique.
+- [x] **[ft_isascii](ft_isascii.c):** Vérifie si un caractère fait partie de la table ASCII.
+- [x] **[ft_isprint](ft_isprint.c):** Vérifie si un caractère est imprimable.
+- [x] **[ft_strlen](ft_strlen.c):** Calcule la longueur d'une chaîne de caractères.
+- [x] **[ft_memset](ft_memset.c):** Remplit un bloc de mémoire avec une valeur spécifique.
+- [x] **[ft_bzero](ft_bzero.c):** Met à zéro les premiers n octets d'une zone mémoire.
+- [x] **[ft_memcpy](ft_memcpy.c):** Copie n octets depuis la mémoire source vers la mémoire destination.
+- [x] **[ft_memmove](ft_memmove.c):** Copie n octets depuis la mémoire source vers la mémoire destination (peut gérer les chevauchements).
+- [x] **[ft_strlcpy](ft_strlcpy.c):** Copie une chaîne de caractères de manière sûre dans un buffer.
+- [x] **[ft_strlcat](ft_strlcat.c):** Concatène deux chaînes de caractères de manière sûre.
+- [x] **[ft_toupper](ft_toupper.c):** Convertit un caractère en majuscule.
+- [x] **[ft_tolower](ft_tolower.c):** Convertit un caractère en minuscule.
+- [x] **[ft_strchr](ft_strchr.c):** Recherche la première occurrence d'un caractère dans une chaîne.
+- [x] **[ft_strrchr](ft_strrchr.c):** Recherche la dernière occurrence d'un caractère dans une chaîne.
+- [x] **[ft_strncmp](ft_strncmp.c):** Compare les n premiers caractères de deux chaînes.
+- [x] **[ft_memchr](ft_memchr.c):** Recherche la première occurrence d'un caractère dans une zone mémoire.
+- [x] **[ft_memcmp](ft_memcmp.c):** Compare deux zones mémoire.
+- [x] **[ft_strnstr](ft_strnstr.c):** Recherche une sous-chaîne dans une chaîne avec une limite de taille.
+- [x] **[ft_atoi](ft_atoi.c):** Convertit une chaîne de caractères en un entier.
 - [x] **[ft_substr](ft_substr.c):** Alloue et retourne une nouvelle sous-chaîne.
 - [x] **[ft_strjoin](ft_strjoin.c):** Alloue et retourne une nouvelle chaîne résultant de la concaténation de deux chaînes.
 - [x] **[ft_strtrim](ft_strtrim.c):** Alloue et retourne une nouvelle chaîne résultant du retrait des caractères spécifiés au début et à la fin de la chaîne.
